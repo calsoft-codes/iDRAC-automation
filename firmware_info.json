@@ -1,0 +1,34 @@
+{
+    "firmware_info": [
+        {
+            "firmwareName": "CPLD",
+            "firmware-version": "1.0.3",
+            "firmware_path": "C:\\Users\\Bhushan_Olokar\\Desktop\\Firmware_upgrade\\Firmware_upgrade\\XR11\\CPLD_Firmware_3TK32_WN64_1.0.3_A00.exe"
+        },
+        {
+            "firmwareName": "iDRAC.Embedded",
+            "firmware-version": "7.00.00.00",
+            "firmware_path": "C:\\Users\\Bhushan_Olokar\\Desktop\\Firmware_upgrade\\Firmware_upgrade\\XR11\\iDRAC-with-Lifecycle-Controller_Firmware_KH4XX_WN64_7.00.00.00_A00.exe"
+        },
+        {
+            "firmwareName": "BIOS",
+            "firmware-version": "1.10.2",
+            "firmware_path": "C:\\Users\\Bhushan_Olokar\\Desktop\\Firmware_upgrade\\Firmware_upgrade\\XR11\\BIOS_MDNG7_WN64_1.10.2_01.exe"
+        },
+        {
+            "firmwareName": "Backplane",
+            "firmware-version": "7.10",
+            "firmware_path": "C:\\Users\\Bhushan_Olokar\\Desktop\\Firmware_upgrade\\Firmware_upgrade\\XR11\\Firmware_252M1_WN64_7.10_A00_05.exe"
+        },
+        {
+            "firmwareName": "NIC.Integrated",
+            "firmware-version": "21.5.9",
+            "firmware_path": "C:\\Users\\Bhushan_Olokar\\Desktop\\Firmware_upgrade\\Firmware_upgrade\\XR11\\Network_Firmware_25FFJ_WN64_21.5.9_A02.exe"
+        },
+                {
+            "firmwareName": "NIC.Slot",
+            "firmware-version": "21.5.9",
+            "firmware_path": "C:\\Users\\Bhushan_Olokar\\Desktop\\Firmware_upgrade\\Firmware_upgrade\\XR11\\Network_Firmware_25FFJ_WN64_21.5.9_A02.exe"
+        }
+    ]
+}
